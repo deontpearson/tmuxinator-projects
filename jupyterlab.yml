@@ -1,0 +1,11 @@
+# ~/.config/tmuxinator/pyenv.yml
+name: jupyterlab
+windows:
+  - editor:
+      layout: even-horizontal
+      panes:
+        - py3:
+            - cd ~/workspace/playground/notebooks
+            - pyenv activate python3
+            - jupyter lab
+attach: true

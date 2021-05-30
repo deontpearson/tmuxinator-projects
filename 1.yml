@@ -1,0 +1,7 @@
+name: 1
+windows:
+  - editor:
+      layout: tiled
+      panes:
+        - null
+        - null

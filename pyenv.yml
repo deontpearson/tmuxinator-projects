@@ -1,0 +1,9 @@
+# ~/.config/tmuxinator/pyenv.yml
+name: pyenv
+windows:
+  - editor:
+      layout: even-horizontal
+      panes:
+        - py3:
+            - pyenv activate python3
+attach: true
