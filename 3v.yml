@@ -1,8 +1,9 @@
 # ~/.config/tmuxinator/3.yml
-name: 2
+name: 3v
 windows:
   - editor:
-      layout: tiled
+      layout: even-vertical
       panes:
+        - null
         - null
         - null

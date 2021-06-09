@@ -1,9 +1,10 @@
-# ~/.config/tmuxinator/3.yml
-name: 3
+# ~/.config/tmuxinator/4.yml
+name: 4t
 windows:
   - editor:
       layout: tiled
       panes:
+        - null
         - null
         - null
         - null

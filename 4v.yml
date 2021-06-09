@@ -1,0 +1,10 @@
+# ~/.config/tmuxinator/4.yml
+name: 4v
+windows:
+  - editor:
+      layout: even-vertical
+      panes:
+        - null
+        - null
+        - null
+        - null
