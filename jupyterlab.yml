@@ -7,5 +7,5 @@ windows:
         - py3:
             - cd ~/workspace/playground/notebooks
             - pyenv activate python3
-            - jupyter lab
-attach: true
+            - jupyter lab --port=8899
+attach: false

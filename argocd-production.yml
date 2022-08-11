@@ -1,0 +1,9 @@
+# ~/.config/tmuxinator/pyenv.yml
+name: argocd-production
+windows:
+  - editor:
+      layout: even-horizontal
+      panes:
+        - ssh-tunnel:
+            - ssh -L 8888:localhost:8888 bastion-production
+attach: false
