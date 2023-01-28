@@ -7,5 +7,5 @@ windows:
         - py3:
             - cd ~/workspace/playground/notebooks
             - pyenv activate python3
-            - jupyter lab --port=8899
+            - jupyter lab --port=8899 --ServerApp.token=7SxIOn7pPRaHH6XmzsluCBx9h6J2V7jw
 attach: false
