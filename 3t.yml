@@ -4,6 +4,6 @@ windows:
   - editor:
       layout: tiled
       panes:
-        - null
-        - null
-        - null
+        - one: []
+        - two: []
+        - three: []

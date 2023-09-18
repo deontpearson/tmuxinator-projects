@@ -4,5 +4,5 @@ windows:
   - editor:
       layout: tiled
       panes:
-        - null
-        - null
+        - one: []
+        - two: []

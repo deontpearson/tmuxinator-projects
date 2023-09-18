@@ -4,6 +4,6 @@ windows:
   - editor:
       layout: even-vertical
       panes:
-        - null
-        - null
-        - null
+        - one: []
+        - two: []
+        - three: []
